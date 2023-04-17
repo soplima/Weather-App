@@ -14,7 +14,7 @@ Once you have Python and an API key, follow these steps to run the app:
 4. Open the weather.py file in a text editor and replace "YOUR_API_KEY" with your actual API key.
 5. Save the file and run the command python weather.py in the terminal.
 
-Usage
+Usage:
 When you run the weather.py script, the app will prompt you to enter a city. Type in the name of the city you want to get weather data for and press Enter.
 
 The app will then make a request to the OpenWeatherMap API and display the current weather conditions for the specified city. If there was an error fetching the weather data, the app will display an error message.
